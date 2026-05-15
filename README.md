@@ -2,6 +2,8 @@
 
 Personal blog for daily wisdom reflections built with Jekyll and hosted on GitHub Pages.
 
+vfxowlsyvh.github.io
+
 ## Local Development
 
 To run this site locally:
