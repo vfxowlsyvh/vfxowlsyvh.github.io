@@ -43,10 +43,10 @@ body {
 
 .site-header .wrapper {
   display: flex;
-  justify-content: space-between;
+  justify-content: flex-start;
   align-items: baseline;
   flex-wrap: wrap;
-  gap: 12px;
+  gap: 32px;
 }
 
 .site-title {
@@ -61,8 +61,13 @@ body {
   color: var(--accent);
 }
 
+.site-nav {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 24px;
+}
+
 .site-nav a {
-  margin-left: 24px;
   font-size: 0.95rem;
   color: var(--text-light);
   text-decoration: none;
@@ -292,8 +297,12 @@ body {
     margin-bottom: 32px;
   }
 
-  .site-nav a {
-    margin-left: 16px;
+  .site-header .wrapper {
+    gap: 20px;
+  }
+
+  .site-nav {
+    gap: 16px;
   }
 
   .post-header h1 {
