@@ -16,6 +16,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
 
+# Force rebuild: 2026-05-19
 # Exclude from processing.
 exclude:
   - Gemfile
