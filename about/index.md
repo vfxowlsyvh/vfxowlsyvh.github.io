@@ -6,10 +6,22 @@ permalink: /about/
 
 ## About This Blog
 
-This is a personal space for sharing daily wisdom reflections. Each post is a brief contemplation on an idea, observation, or experience that resonated with me.
+**Proof of Work Daily** is a focused cryptocurrency blog dedicated to exploring the proof-of-work ecosystem one coin at a time.
 
-## About Me
+Each day, we pick one PoW project — whether it's Bitcoin, Litecoin, Dogecoin, Kaspa, Monero, or an emerging player — and deliver a concise, news-driven deep dive.
 
-I'm someone who enjoys reflecting on life's moments, big and small. This blog is my way of capturing those reflections and sharing them with whoever might find them interesting or useful.
+## What We Cover
 
-Feel free to explore the posts and join me in this journey of continuous learning and reflection.
+- Network fundamentals and mining economics
+- Hash rate trends and difficulty adjustments
+- Energy mix and sustainability debates
+- Industry pivots and structural shifts
+- Bilingual coverage (English & 中文)
+
+## Why Proof of Work?
+
+While the crypto world has largely moved toward proof-of-stake, PoW remains the backbone of the most secure and decentralized networks. Understanding it is understanding the foundation.
+
+---
+
+*Built with Jekyll and hosted on GitHub Pages.*
