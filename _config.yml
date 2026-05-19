@@ -1,9 +1,8 @@
 # Jekyll configuration for personal blog
-title: Proof of Work Daily
+title: Daily
 email: your-email@example.com
 description: >-
-  Daily deep dives into proof-of-work cryptocurrencies — 
-  one coin, one story at a time.
+  A general blog about everything — crypto, gems, watches, and whatever catches the eye.
 baseurl: ""
 url: "https://vfxowlsyvh.github.io"
 twitter_username: 
