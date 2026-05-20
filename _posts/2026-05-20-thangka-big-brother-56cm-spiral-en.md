@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Big Brother: When a Mantra Grows to 56 Centimetres"
+title: "The Other Black Hole"
 date: 2026-05-20 00:00:00 +0000
 categories: thangka
 lang: en

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "大个子：当咒文长到五十六厘米"
+title: "另一个黑洞"
 date: 2026-05-20 00:00:00 +0000
 categories: thangka
 lang: zh
