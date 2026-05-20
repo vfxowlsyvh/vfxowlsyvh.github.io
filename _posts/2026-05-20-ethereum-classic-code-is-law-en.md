@@ -22,4 +22,4 @@ Whether that statement is worth anything in practical terms is the unanswered qu
 
 Ethereum Classic exists, then, as a philosophical control group. It is the Ethereum that did not fork, did not switch consensus mechanisms, and did not chase scalability at the cost of decentralisation. It is the chain that refused to bend. Whether rigidity is a virtue or a death sentence depends entirely on what you believe a blockchain is for.
 
-*Disclaimer: This article is for informational purposes only and does not constitute investment advice.*
+

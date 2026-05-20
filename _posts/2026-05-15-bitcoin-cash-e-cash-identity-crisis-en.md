@@ -22,4 +22,4 @@ BCH now occupies an uncomfortable middle ground. It is too volatile to compete w
 
 The Layla upgrade is a bet that utility, not narrative, will determine survival. If developers build compelling DeFi applications on BCH's fast, cheap settlement layer, the electronic cash dream may yet find a second act. If not, Bitcoin Cash risks becoming a historical artifact: the chain that was right about scaling, but wrong about what users actually wanted.
 
-*Disclaimer: This article is for informational purposes only and does not constitute investment advice.*
+
