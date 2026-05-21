@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Ten-Dollar Legend"
+title: "Orange F-91W, the Ten-Dollar Legend"
 date: 2026-05-20 00:00:00 +0000
 categories: watch
 lang: en

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "十美元的传奇"
+title: "橙色 F-91W，十美元的传奇"
 date: 2026-05-20 00:00:00 +0000
 categories: watch
 lang: zh
