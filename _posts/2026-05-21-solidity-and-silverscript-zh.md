@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Silverscript与Solidity，上海分野"
+title: "Solidity与Silverscript"
 date: 2026-05-21 00:00:00 +0000
 categories: proof-of-work
 lang: zh
