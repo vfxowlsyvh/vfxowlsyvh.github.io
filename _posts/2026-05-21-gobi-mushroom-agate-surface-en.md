@@ -30,4 +30,4 @@ There will never be another Gobi Desert. The climate is changing. Desertificatio
 
 The click of these stones against each other is a sound from a closed system. They are not being made anymore, not in any meaningful sense. The inventory is fixed by surface area, by erosion rate, by the hardness differential between agate and matrix. Every one that is picked up and carried away reduces the total. This is not true of mined gemstones, where a new tunnel can always be dug deeper. The Gobi does not have deeper. It only has surface, wind, and the slow subtraction of time.
 
-*Five additional mushroom-shaped agate nodules from the Gobi Desert. Banded chalcedony with wind-polished surfaces. Confirmed natural origin by continuous internal banding and desert-varnished skin. Inventory limited by desert surface area and erosion rate.*
+*Three additional mushroom-shaped agate nodules from the Gobi Desert. Banded chalcedony with wind-polished surfaces. Confirmed natural origin by continuous internal banding and desert-varnished skin. Inventory limited by desert surface area and erosion rate.*
