@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Three More Mushroom Agates, The Surface Argument"
+title: "Three More Mushroom Agates, The Wind's Handiwork"
 date: 2026-05-21 00:00:00 +0000
 categories: gem
 lang: en

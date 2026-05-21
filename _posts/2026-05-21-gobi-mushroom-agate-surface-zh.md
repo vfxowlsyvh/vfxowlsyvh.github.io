@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "另三枚蘑菇玛瑙，地表论据"
+title: "另三枚蘑菇玛瑙，风的手笔"
 date: 2026-05-21 00:00:00 +0000
 categories: gem
 lang: zh
