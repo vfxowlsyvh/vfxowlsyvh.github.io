@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Casio MRW-200H, Bill Gates's Climbing Watch"
+title: "Casio MRW-200H, The Climbing Reference"
 date: 2026-05-21 00:00:00 +0000
 categories: watch
 lang: en

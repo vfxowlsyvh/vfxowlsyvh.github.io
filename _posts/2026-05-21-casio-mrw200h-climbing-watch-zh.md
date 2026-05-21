@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "卡西欧 MRW-200H，比尔·盖茨的攀岩表"
+title: "卡西欧 MRW-200H，攀岩时的参照"
 date: 2026-05-21 00:00:00 +0000
 categories: watch
 lang: zh
