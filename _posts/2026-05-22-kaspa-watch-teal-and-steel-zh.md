@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Kaspa腕表，改装经济"
+title: "Kaspa腕表，青绿与钢"
 date: 2026-05-22 00:00:00 +0000
 categories: watch
 lang: zh

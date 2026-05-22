@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Kaspa Watch, The Mod Economy"
+title: "Kaspa Watch, Teal and Steel"
 date: 2026-05-22 00:00:00 +0000
 categories: watch
 lang: en
