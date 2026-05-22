@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "硬石镶嵌盒，深时"
+title: "硬石镶嵌盒，深时材料"
 date: 2026-05-22 00:00:00 +0000
 categories: gem
 lang: zh
