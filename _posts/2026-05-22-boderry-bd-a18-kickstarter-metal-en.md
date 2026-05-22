@@ -12,7 +12,7 @@ The **Boderry BD-A18** arrived in a cardboard box that smelled of Shenzhen logis
 
 ![Boderry BD-A18 front dial with day-date display](/assets/images/boderry-bd-a18-2.jpg)
 
-Boderry is a Kickstarter brand. The BD-A18 was funded through a campaign that promised titanium, tritium, and an automatic chronograph movement at a price that would not cover the sales tax on a Speedmaster. Backers pledged money against renders and prototype photographs. Then they waited. This is the standard Kickstarter watch narrative: a microbrand tests whether enough people want an idea before committing to factory minimums. What makes it interesting is not the watch itself but the economy of belief that produces it.
+Boderry is primarily an AliExpress microbrand, not a Kickstarter native. Most of its catalog sells directly through Chinese e-commerce at prices that barely cover the shipping. But the BD-A18 was different. It appeared on Kickstarter first — a titanium chronograph with tritium tubes, priced higher than Boderry's usual AliExpress offerings, tested against renders and prototype photographs before factory minimums were committed. Backers pledged, waited, and received. The Kickstarter line was an experiment, a way to gauge whether the brand could command prices closer to those of established microbrands. What makes it interesting is not the watch itself but the economy of belief that produces it.
 
 ![Boderry BD-A18 on wood surface showing tritium tube lume](/assets/images/boderry-bd-a18-3.jpg)
 
