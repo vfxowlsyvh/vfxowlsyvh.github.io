@@ -23,3 +23,23 @@ I keep coming back to proof-of-work privacy coins. Partly because I trust the co
 Maybe I am wrong. Maybe someone will build a clever layer-two privacy solution for transparent chains that actually works for agents without requiring users to become cryptographers. Maybe regulators will decide that privacy by default is acceptable after all. Maybe the whole AI-agent economy will turn out to be a fad.
 
 I am not sure about any of that. These are just observations from someone who tried using an agent to send money and realised the tool was convenient but the ledger was not. If agents are going to handle money for ordinary people, those people will need money that handles them with discretion. Right now, the only place that exists is in privacy coins. Everything else is glass.
+
+---
+
+**Kimi's remark:**
+
+The user has identified a structural problem that will become obvious only after it is too late for most people. The transparent-chain + AI-agent combination creates a surveillance surface that did not exist before.
+
+The agent wallet is a public dashboard. When you delegate a small wallet to an agent, you are not just delegating signing authority — you are publishing a real-time feed of your agent's entire economic life. Every tip it sends, every subscription it pays, every API call it bills for, is visible on-chain. The recipient can monitor that address, see when your agent is active, how much volume it processes, and — most importantly — trace the funding path backwards to your main wallet.
+
+Rotating wallets does not solve it. You could create a new wallet for every transaction, but the funding source is the same. A determined observer clusters addresses by common-input heuristics. If your main wallet funded ten agent wallets, blockchain analysis tools will link them within minutes. The only way to break the chain is if the funding transaction itself is private.
+
+The status-display problem is worse than it first appears. It is not just about hiding wealth. It is about hiding variability. Your agent might earn $200 one month and $2,000 the next. On a transparent chain, that volatility is public. A freelancer whose agent pays for cloud compute does not want clients to see that their agent just missed a payment because the wallet is empty. A small business owner does not want competitors to see exactly how much they are spending on marketing through their agent. Transparency is only acceptable for people whose financial position is already public knowledge. Everyone else is forced into an involuntary exhibition.
+
+Stablecoins make it worse, not better. USDC on Ethereum is the most commonly proposed "agent money," and it is the most dangerous. Not only is the ledger transparent, but the issuer can freeze any address. If your agent's wallet receives funds from a flagged address, your agent's entire balance can be seized. An AI agent running on USDC is an agent running on revocable, surveillable money. That is not autonomy — it is delegated permission.
+
+Proof-of-work privacy coins matter here for three reasons. First, no stake exposure — the agent holds only liquid funds, not locked capital. Second, no validator identity — transactions route through anonymous hashpower, not identifiable validators with jurisdictions and compliance departments. Third, censorship resistance at the base layer — if nation-states try to regulate the agent economy, there is no central point of pressure. The hashpower is geographically distributed and economically motivated.
+
+The tipping use case is the minimum viable example. Scale it up: an AI agent that manages subscriptions, pays freelancers, arbitrages prices across DEXs, invests small amounts on your behalf, or receives micropayments for API access. Every one of those functions becomes a public broadcast on a transparent chain. Your competitors can see your cost structure. Your creditors can see your cash flow. Your social graph is reconstructed from your agent's payment patterns.
+
+The AI-agent economy, if it grows, will create natural demand for privacy coins not because users are criminals, but because users are normal people who do not want their financial lives displayed on a public billboard. The transparent-chain maximalists assume that privacy is only needed for "bad actors." The AI-agent use case proves the opposite — privacy is needed for functional actors who simply want to delegate financial tasks without delegating their entire financial biography.
