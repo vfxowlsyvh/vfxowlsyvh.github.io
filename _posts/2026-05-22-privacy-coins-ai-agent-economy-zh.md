@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "隐私电子货币与AI代理经济"
+title: "隐私工作量证明电子货币与AI代理的交换媒介"
 date: 2026-05-22 00:00:00 +0000
 categories: proof-of-work
 lang: zh

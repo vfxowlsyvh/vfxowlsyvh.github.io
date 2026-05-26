@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Privacy Electronic Currency and the AI Agent Economy"
+title: "Privacy Proof of Work Electronic Currency and the AI Agent's Medium of Exchange"
 date: 2026-05-22 00:00:00 +0000
 categories: proof-of-work
 lang: en
