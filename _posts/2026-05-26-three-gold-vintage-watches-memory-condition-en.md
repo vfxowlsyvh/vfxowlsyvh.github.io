@@ -22,6 +22,8 @@ The Luch is the surprise of the group. Made in Minsk, Belarus, during the Soviet
 
 ![Luch caseback](/assets/images/vintage-gold-trio-5.jpg)
 
+The hour markers are the real design statement. They are not applied indices, not printed paint, but deep incisions carved directly into the gold dial — three-dimensional slashes that catch light and cast microscopic shadows. It is a technique closer to Lucio Fontana's slashed canvases than to conventional watchmaking. The Soviet designers could have chosen safe, flat printing. Instead they cut into the surface, giving the dial an aggression that feels almost contemporary. It is a reminder that Soviet manufacturing, beneath the grey stereotype, often produced objects with genuine aesthetic courage.
+
 The 23-jewel calibre was Luch's premium offering. It is not decorated by Swiss standards — the bridges are functional, the finishing industrial — but it was built to survive state ownership, which is to say: neglect, intermittent service, and the occasional dropped drawer. The red leather strap is an aftermarket choice that transforms the watch from a grey bureaucrat's timepiece into something almost festive. It clashes. It works. It is the only watch here that looks like it is having fun.
 
 ---
