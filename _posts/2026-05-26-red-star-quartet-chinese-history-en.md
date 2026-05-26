@@ -38,9 +38,11 @@ The dual-time regulator layout is genuinely useful if you cross time zones — o
 
 ![Blue sunburst dial with applied Arabic numerals and two sub-dials](/assets/images/red-star-collection-4.jpg)
 
-If the cream regulator is a history thesis, the blue dial is a party invitation. The radial sunburst finish catches light like a vinyl record, shifting from navy to electric blue depending on the angle. Applied Arabic numerals in a warm, almost copper tone give it a 1920s art-deco energy, while two cream sub-dials — date and running seconds — balance the upper half of the dial. A fan-shaped power reserve at six o'clock completes the composition.
+If the cream regulator is a history thesis, the blue dial is a party invitation. The dial surface is not true guilloché — the cuts are stamped rather than engine-turned — but under direct light the radiating ridges do a convincing impression of one, throwing shadows that shift from navy to electric blue depending on the angle. Applied Arabic numerals in a warm, almost copper tone give it a 1920s art-deco energy. Two cream sub-dials handle small seconds at ten o'clock and the date at seven o'clock, while a fan-shaped power reserve arcs across the upper right quadrant near one o'clock. A red star anchors the dial just below two o'clock, as if the watch is patriotically saluting its own complication set.
 
-This is Red Star operating without the safety net of historical justification. There is no 1970s reference to point to. It is simply a Chinese microbrand making a handsome, slightly eccentric dress watch with a power reserve complication and a sunburst dial that punches well above its weight class. The burgundy leather strap is an odd but effective pairing — it clashes just enough to be interesting.
+![Blue dial close-up showing SEC, DATE sub-dials and power reserve](/assets/images/red-star-collection-8.jpg)
+
+This is Red Star operating without the safety net of historical justification. There is no 1970s reference to point to. It is simply a Chinese microbrand making a handsome, slightly eccentric dress watch with a power reserve complication and a dial texture that punches well above its weight class. The burgundy leather strap is an odd but effective pairing — it clashes just enough to be interesting.
 
 ---
 
