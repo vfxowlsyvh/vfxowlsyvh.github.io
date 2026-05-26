@@ -26,7 +26,7 @@ The caseback tells the real story: *RED STAR 统一机 1969/1972*. The Tongji mo
 
 ![Casebacks showing RED STAR engraving and Tongji movement diagram](/assets/images/red-star-collection-2.jpg)
 
-The regulator layout is genuinely useful if you are the kind of person who reads time to the exact minute — or if you simply enjoy the asymmetry. The power reserve, coloured in red and blue arcs, is oddly hypnotic. It is not a refined movement by Swiss standards; the finishing is industrial, the rotor plain, the bridges functional. But it is a mechanical watch with a power reserve and a regulator display for less than the price of a petrol station sandwich. The compromises are visible, but so is the ambition.
+The regulator layout is genuinely useful if you are the kind of person who reads time to the exact minute — or if you simply enjoy the asymmetry. The power reserve, coloured in red and blue arcs, is oddly hypnotic. It is not a refined movement by Swiss standards; the finishing is industrial, the rotor plain, the bridges functional. But it is a mechanical watch with a power reserve and a regulator display for far less than a Swiss equivalent — though not quite as cheap as the AliExpress myth would suggest. The compromises are visible, but so is the ambition.
 
 ---
 
@@ -56,7 +56,7 @@ It is a mood piece, really — a watch for people who know the reference and wan
 
 ![Bronze chronograph with salmon dial and pump pushers](/assets/images/red-star-collection-5.jpg)
 
-The bronze-cased chronograph is the brawler of the group. Its salmon-orange dial, domed crystal, and pump pushers evoke 1940s German flieger chronographs — Hanhart, Tutima, the Luftwaffe-issue tools that pilots wore over their flight jackets. The case has already begun to oxidise, developing a dark, mottled patina that makes it look like it has been dug out of a barn rather than unboxed from AliExpress.
+The bronze-cased chronograph is the brawler of the group. Its salmon-orange dial, domed crystal, and pump pushers evoke 1940s German flieger chronographs — Hanhart, Tutima, the Luftwaffe-issue tools that pilots wore over their flight jackets. The case has already begun to oxidise, developing a dark, mottled patina that makes it look like it has been dug out of a barn rather than dispatched from a warehouse.
 
 ![Cream regulator and bronze chronograph side by side](/assets/images/red-star-collection-6.jpg)
 
@@ -72,4 +72,4 @@ Collectively, these four watches represent something rare in affordable horology
 
 The designs are uneven. The finishing is utilitarian. The marketing copy on the casebacks — "Glowly Date," "Three Dimension Dial Design" — reads like it was translated by someone who learned English from a technical manual and a thesaurus simultaneously. But the watches have something more valuable than polish: they have a point of view. They know where they come from. And they are not afraid to remind you, with every red star on every dial, exactly what that means.
 
-*Four Red Star mechanical watches. Movements: Tongji-based automatic, Sea-Gull ST1901 chronograph (inferred). Cases: stainless steel and bronze. All acquired via international e-commerce platforms.*
+*Four Red Star mechanical watches. Movements: Tongji-based automatic, Sea-Gull ST1901 chronograph (inferred). Cases: stainless steel and bronze. All acquired from a German vendor. Notably, these appear to be export-market pieces — oddly unavailable through Chinese domestic channels or local e-commerce platforms, as if Red Star manufactures them specifically for foreign collectors and then forgets to tell its home market they exist.*
