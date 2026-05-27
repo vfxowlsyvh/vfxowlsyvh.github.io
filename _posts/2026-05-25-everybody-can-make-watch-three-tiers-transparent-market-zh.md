@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "人人能制表：透明市场中的三个层级"
-date: 2026-05-28
+date: 2026-05-25
 categories: watch
 lang: zh
 ---

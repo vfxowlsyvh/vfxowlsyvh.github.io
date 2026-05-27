@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Everybody Can Make a Watch: The Three Tiers of a Transparent Market"
-date: 2026-05-28
+date: 2026-05-25
 categories: watch
 lang: en
 ---
