@@ -20,7 +20,7 @@ Sea-Gull is not a microbrand. It is the largest mechanical watch movement manufa
 
 ![Angled view showing the ceramic bezel](/assets/images/seagull-seestern-4.jpg)
 
-The dial is a deep black sunburst that shifts to navy under direct light. Applied indices are thick and faceted, filled with luminous compound. The red star at six o'clock is the same symbol that appears on Red Star watches, on Chinese Air Force chronographs, and on the flag — a piece of national iconography dropped casually into a tool-watch dial. The handset is broad and arrow-shaped, designed for legibility at depth rather than elegance at dinner. The date window at three o'clock is unobtrusive, framed but not magnified.
+The dial is a deep black sunburst that shifts to navy under direct light. Applied indices are thick and faceted, filled with luminous compound. The red star at six o'clock is the same symbol that appears on Red Star watches, on Chinese Air Force chronographs, and on the flag — a piece of national iconography dropped casually into a tool-watch dial. The handset is broad and arrow-shaped, designed for legibility at depth rather than elegance at dinner. The date window at six o'clock is unobtrusive, framed but not magnified.
 
 ![Ocean Star engraved caseback](/assets/images/seagull-seestern-2.jpg)
 
