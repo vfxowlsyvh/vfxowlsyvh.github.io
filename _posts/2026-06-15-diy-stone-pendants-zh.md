@@ -24,6 +24,12 @@ lang: zh
 
 底部那颗橙红色石头几乎确定是 **carnelian**，那种被热处理后的铁元素染成日落色的玉髓。它半透明、刻面，颜色像一只见过世面的交通锥。
 
+![冷暖吊坠另一角度，红色石头在上](/assets/images/homemade-pendant-tricolor-2.jpg)
+
+另一个角度把三颗石头横着排列——红、绿、蓝——这只能说明方向并不重要。无论你是把它挂着、平放，还是被不耐烦的摄影师倒过来拿，它读起来都是同一个意思。
+
+![冷暖吊坠平放，红绿石头迎着光](/assets/images/homemade-pendant-tricolor-3.jpg)
+
 ---
 
 ## 第二枚：街道的冷色调
@@ -35,6 +41,16 @@ lang: zh
 中间那颗乳绿色石头有着 **prehnite** 或浅色 **chalcedony** 那种柔和、水汪汪的光泽。它看起来像是用冰川水做成的润喉糖。
 
 深色石头是最有辨识度的。低光下突然闪现的电光蓝，正是 **labradorite** 的签名——一种长石，除非你把它倾斜到正确角度，否则它会把颜色藏起来。它是这里唯一一颗像是在镜头前表演的石头。
+
+![蓝绿三色吊坠侧面，可见浅绿色石头的蛋面弧度](/assets/images/homemade-pendant-teal-trio-1.jpg)
+
+从侧面可以看到中间那颗石头向外鼓起的弧度——一颗光滑的 cabochon，像水珠一样接住光线。黄铜包边简单、朴实，是那种在告诉你：制作者更在意石头，而不是框架。
+
+![蓝绿三色吊坠竖立，蓝绿色在上、深色 labradorite 在下](/assets/images/homemade-pendant-teal-trio-3.jpg)
+
+竖过来，这枚吊坠变成一柱冷水：绿松石色的天空、浅绿色的浅滩、藏着蓝色闪光的深色深水。它就像是从上往下看一片海洋的吊坠版本。
+
+![蓝绿三色吊坠倾斜角度，labradorite 闪出蓝光](/assets/images/homemade-pendant-teal-trio-2.jpg)
 
 ---
 

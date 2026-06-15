@@ -24,6 +24,12 @@ The middle stone is harder. It has the milky, slightly greasy translucence of **
 
 The orange-red bottom stone is almost certainly **carnelian**, the chalcedony that heat-treated iron turns into a sunset. It is translucent, faceted, and the color of a traffic cone that has seen some things.
 
+![The tricolor pendant from another angle, red stone at top](/assets/images/homemade-pendant-tricolor-2.jpg)
+
+One more angle shows the same three stones laid horizontally — red, green, blue — which only proves that the orientation does not matter. The piece reads the same whether it is hanging, lying flat, or turned upside down by an impatient photographer.
+
+![The tricolor pendant laid flat, red and green stones catching the light](/assets/images/homemade-pendant-tricolor-3.jpg)
+
 ---
 
 ## Pendant Two: The Cool Side of the Street
@@ -35,6 +41,16 @@ The teal stone is the most suspicious. That saturated blue-green is either a pie
 The milky green stone in the center has the soft, watery glow of **prehnite** or pale **chalcedony**. It looks like a cough drop made of glacier water.
 
 The dark stone is the giveaway. That sudden electric-blue flash under low light is the signature of **labradorite**, the feldspar that hides its colors until you tilt it just so. It is the only stone here that seems to be performing for the camera.
+
+![The teal trio pendant from the side, showing the dome of the pale green stone](/assets/images/homemade-pendant-teal-trio-1.jpg)
+
+From the side you can see how the middle stone bulges outward — a smooth cabochon that catches light like a bead of water. The brass bezel is simple and workmanlike, the kind of setting that says the maker cared more about the rocks than the frame.
+
+![The teal trio pendant upright, turquoise on top and dark labradorite at the bottom](/assets/images/homemade-pendant-teal-trio-3.jpg)
+
+Turned vertically, the pendant becomes a column of cool water: turquoise sky, pale green shallows, dark deep water with a blue flash hiding inside it. It is the pendant equivalent of looking down through the sea.
+
+![The teal trio pendant at an angle, labradorite flashing blue](/assets/images/homemade-pendant-teal-trio-2.jpg)
 
 ---
 
