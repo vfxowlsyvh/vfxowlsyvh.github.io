@@ -36,7 +36,7 @@ lang: zh
 
 第二枚是第一枚性情阴沉的兄弟。同样是三颗石头，这次全是冷水的色调：一颗明亮的蓝绿色方石、一颗乳白的浅绿色椭圆石，以及一颗在特定角度下会闪出蓝光的深色石头。
 
-蓝绿色那颗最值得怀疑。那种饱和的蓝绿色，要么是染色的 **howlite**，要么是稳定处理的 **turquoise**，要么是一块非常干净的 **blue chalcedony**。它太均匀了，不像天然 turquoise，但又漂亮到让人舍不得否定。刻面顶部像硬糖一样接住窗光。
+蓝绿色那颗在排除便宜替代品之后就好判断了。那种饱和的蓝绿色几乎确定是一块非常干净的 **blue chalcedony**。制作者不会在这种作品里镶 **howlite** 或 **turquoise**，而且它的颜色和质地太过均匀、太过玻璃感，不可能是那两种。刻面顶部像硬糖一样接住窗光。
 
 中间那颗乳绿色石头有着 **prehnite** 或浅色 **chalcedony** 那种柔和、水汪汪的光泽。它看起来像是用冰川水做成的润喉糖。
 
@@ -78,4 +78,4 @@ lang: zh
 
 如果你比我更准确地认出这些石头，请纠正我。我这周已经错了好几件事，再多几件也无妨。
 
-*镶嵌：raw brass 包边。石头：rough sapphire、chalcedony/prehnite、carnelian、labradorite，以及一颗完美得可疑的蓝绿色不明物体。链条：黄铜 cable chain。*
+*镶嵌：raw brass 包边。石头：rough sapphire、chalcedony/prehnite、carnelian、labradorite、blue chalcedony。链条：黄铜 cable chain。*

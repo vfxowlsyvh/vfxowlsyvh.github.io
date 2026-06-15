@@ -36,7 +36,7 @@ One more angle shows the same three stones laid horizontally — red, green, blu
 
 The second pendant is the first one's moody sibling. Three stones again, this time in shades of cold water: a bright teal square, a milky pale-green oval, and a dark stone with a blue flash that appears when the light hits it at the right angle.
 
-The teal stone is the most suspicious. That saturated blue-green is either a piece of **dyed howlite**, stabilized **turquoise**, or a very clean **blue chalcedony**. It is too even to be natural turquoise, but too pretty to dismiss. The faceted top catches window light like a piece of hard candy.
+The teal stone is easier to place once you rule out the cheap substitutes. That saturated blue-green is almost certainly a very clean **blue chalcedony**. The maker would not set **howlite** or **turquoise** in this piece, and the color is too even and too glassy to be either. The faceted top catches window light like a piece of hard candy.
 
 The milky green stone in the center has the soft, watery glow of **prehnite** or pale **chalcedony**. It looks like a cough drop made of glacier water.
 
@@ -78,4 +78,4 @@ Both pendants are set in what looks like raw brass, already beginning to darken 
 
 If you recognize any of these rocks more precisely than I do, please correct me. I have already been wrong about several things this week. A few more will not hurt.
 
-*Setting: raw brass bezel. Stones: rough sapphire, chalcedony/prehnite, carnelian, labradorite, and one suspiciously perfect teal thing. Chain: brass cable.*
+*Setting: raw brass bezel. Stones: rough sapphire, chalcedony/prehnite, carnelian, labradorite, and blue chalcedony. Chain: brass cable.*
