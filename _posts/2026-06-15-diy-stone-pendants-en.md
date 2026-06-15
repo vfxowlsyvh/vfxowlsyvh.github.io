@@ -18,17 +18,17 @@ These two pendants are that exam.
 
 The first piece is a brass rectangle wearing three stones like a traffic light that has been to art school. Top to bottom, or left to right depending on which photo you trust, the stones read: deep blue with metallic flecks, pale milky blue-green, and warm orange-red.
 
-The blue is the easy one. It is almost certainly **lapis lazuli**, that ancient pigment-stone, midnight blue with pyrite glittering inside it like a constellation of cheap gold. Egyptians would have ground it into eye shadow. You set it in a kitchen-table pendant. Same stone, different century.
+The blue is the easy one, and also the one I got wrong. It is a **rough sapphire** — large, unpolished, and inexpensive. The dark blue surface has been cut with rough facets that catch the light unevenly, not the mirror finish of a commercial gem. You can see the hardness in the way the edges hold their shape, and the inclusions in the way the light stops short inside the stone. This is not a sapphire for a ring at Tiffany. It is a sapphire for someone who likes rocks.
 
 The middle stone is harder. It has the milky, slightly greasy translucence of **chalcedony**, but the color drifts between pale aqua and a greenish yellow depending on the light. It could be a pale **aquamarine**, or a piece of **prehnite** that has been cut with a faceted top and a domed belly. It catches light like a swimming pool seen through frosted glass.
 
 The orange-red bottom stone is almost certainly **carnelian**, the chalcedony that heat-treated iron turns into a sunset. It is translucent, faceted, and the color of a traffic cone that has seen some things.
 
-![The tricolor pendant from another angle, red stone at top](/assets/images/homemade-pendant-tricolor-2.jpg)
+![Close-up of the tricolor pendant showing the rough sapphire and carnelian held in hand](/assets/images/homemade-pendant-tricolor-closeup-1.jpg)
 
 One more angle shows the same three stones laid horizontally — red, green, blue — which only proves that the orientation does not matter. The piece reads the same whether it is hanging, lying flat, or turned upside down by an impatient photographer.
 
-![The tricolor pendant laid flat, red and green stones catching the light](/assets/images/homemade-pendant-tricolor-3.jpg)
+![Close-up of the tricolor pendant showing the rough-cut surface of the sapphire](/assets/images/homemade-pendant-tricolor-closeup-2.jpg)
 
 ---
 
@@ -54,11 +54,19 @@ Turned vertically, the pendant becomes a column of cool water: turquoise sky, pa
 
 ---
 
+## The Han Dynasty State of Mind
+
+The maker tells me these pendants are made in the spirit of Han dynasty jewelry: assemble the rocks, respect their hardness, do not chase the 4Cs. In the old workshops there was no obsession with color grade, clarity, cut proportions, or carat weight. They set what they had, rough and real, and let the material speak. A stone did not need to be flawless to be worth wearing.
+
+That attitude is the opposite of the modern diamond economy, where getting a perfectly clear stone means grinding away most of the original material. The pursuit of optical perfection throws away mass, energy, and the character of the rock. These pendants keep the rough surfaces, the inclusions, and the uneven cuts. They do not apologize for not being jewelry-counter clean. They wear their rawness as the whole point.
+
+---
+
 ## The Pleasure of Not Knowing
 
 Amateur jewelry has this advantage over the professional kind: nobody expects a certificate. A bench jeweler would tell you the exact mine, the treatment, the carat weight. A maker working at the kitchen table only has to answer to their own eye. Did the colors sit well together? Did the bezel close cleanly? Did the piece survive the first wearing without the glue giving up? Those are the real tests.
 
-There is also a small liberation in forgetting the names. The stones do not care what you call them. The lapis is still blue. The carnelian is still warm. The labradorite still flashes. The taxonomy is for collectors. The object is for wearing.
+There is also a small liberation in forgetting the names. The stones do not care what you call them. The rough sapphire is still blue. The carnelian is still warm. The labradorite still flashes. The taxonomy is for collectors. The object is for wearing.
 
 ---
 
@@ -70,4 +78,4 @@ Both pendants are set in what looks like raw brass, already beginning to darken 
 
 If you recognize any of these rocks more precisely than I do, please correct me. I have already been wrong about several things this week. A few more will not hurt.
 
-*Setting: raw brass bezel. Stones: probably lapis lazuli, chalcedony/prehnite, carnelian, labradorite, and one suspiciously perfect teal thing. Chain: brass cable.*
+*Setting: raw brass bezel. Stones: rough sapphire, chalcedony/prehnite, carnelian, labradorite, and one suspiciously perfect teal thing. Chain: brass cable.*
