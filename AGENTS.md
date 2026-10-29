@@ -32,6 +32,7 @@ When writing Chinese blog posts, follow these rules for English loanwords:
 ## 2. What to Post & Where
 
 ### Blog Structure
+- **This is the only blog.** The old `~/blog` repo (`vfxowlsyvh/blog`, served at `/blog/`) is deprecated and now just redirects here — never publish posts to it.
 - **Jekyll** static site hosted on GitHub Pages at `https://vfxowlsyvh.github.io`
 - **Theme**: minima
 - **Posts directory**: `/_posts/`
