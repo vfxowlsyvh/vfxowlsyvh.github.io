@@ -142,6 +142,19 @@ body {
   margin: 0 0 10px;
 }
 
+.post-thumbnail {
+  display: block;
+  margin: 0 0 14px;
+}
+
+.post-thumbnail img {
+  display: block;
+  width: 100%;
+  max-height: 240px;
+  object-fit: cover;
+  border-radius: 8px;
+}
+
 .post-excerpt {
   margin: 0;
   color: var(--text-light);

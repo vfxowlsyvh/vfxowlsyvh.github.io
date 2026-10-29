@@ -1,0 +1,10 @@
+<article class="post-preview">
+  <h2><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
+  <p class="post-meta">{{ post.date | date: "%B %d, %Y" }} {% if post.categories.size > 0 %}&middot; {{ post.categories | join: ", " }}{% endif %}</p>
+  {% assign img_parts = post.content | split: '<img src="' %}
+  {% if img_parts.size > 1 %}
+    {% assign thumb_src = img_parts[1] | split: '"' | first %}
+    <a class="post-thumbnail" href="{{ post.url | relative_url }}" aria-hidden="true" tabindex="-1"><img src="{{ thumb_src | relative_url }}" alt="" loading="lazy"></a>
+  {% endif %}
+  <p class="post-excerpt">{{ post.excerpt | strip_html | truncatewords: 28 }}</p>
+</article>

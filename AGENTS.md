@@ -73,6 +73,7 @@ Use relative paths:
 ```markdown
 ![Alt text](/assets/images/filename.jpg)
 ```
+The first image in a post is automatically shown as its thumbnail on the home page and category listing pages (via `_includes/post-preview.html`). Posts without images simply show no thumbnail.
 
 ### Image Naming Convention
 Use descriptive, kebab-case filenames:
